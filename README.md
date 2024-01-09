@@ -1,1 +1,1 @@
-This is a task for **Basic of Computer Programming** lecture
+This is a task for **Basics of Computer Programming** lecture
